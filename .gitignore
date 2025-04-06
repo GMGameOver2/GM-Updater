@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ortam dosyaları
+.env
+
+# Sistem dosyaları
+.DS_Store
+
+# Arşivler
+*.zip
+*.tar.gz
+
+# Sanal ortam klasörü
+venv/
+env/
